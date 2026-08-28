@@ -6,116 +6,137 @@
 
 ### 📡 [TRANSMISSION_START]
 
-* 🛸 **Mission:** Developing **Robot Eye Expressions** and advanced **ROS Simulations**.
-* 🌀 **Core Tech:** Specialized in **ESP32, LoRa Connectivity**, and **Robot Kinematics**.
-* 🛠️ **Current Focus:** Upgrading skills from **ROS1 → ROS2 & Computer Vision**.
-* 🤖 **Interests:** Robotics, Embedded Systems, IoT, Automation, AI & Machine Learning.
-* 📧 **Comms:** `kaveekhayandee@gmail.com`
+- 🛸 **Mission:** Developing **Robot Eye Expressions** and advanced **ROS Simulations**.
+- 🌀 **Core Tech:** Specialized in **ESP32, LoRa Connectivity**, and **Robot Kinematics**.
+- 🛠️ **Current Focus:** Upgrading skills from **ROS1 → ROS2 & Computer Vision**.
+- 🤖 **Interests:** Robotics, Embedded Systems, IoT, Automation, AI & Machine Learning.
+- 📐 **Engineering:** PCB Design, 3D Printing, CAD & Embedded Hardware.
+- 📧 **Comms:** `kaveekhayandee@gmail.com`
 
 ---
 
-## 🎛️ TECH STACK & CYBERWARE
+# 🎛️ TECH STACK & CYBERWARE
 
-### 💻 Languages
+## 🤖 Robotics & Embedded Systems
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Robot%20Operating%20System%20(ROS)-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Embedded%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+---
+
+## 💻 Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 ---
 
-### 🤖 Robotics & Embedded Systems
+## 📡 IoT & Communication
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge&logo=lorawan&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Communication-00897B?style=for-the-badge&logo=signal&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 Robotics / AI / Computer Vision
+## 🧠 AI & Machine Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 ---
 
-### 🐧 OS & Infrastructure
+## 🌐 Software & Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+---
+
+## 🐧 Operating Systems & Infrastructure
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Development Tools
+## 🛠️ Development Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Web / Backend
+## 🔧 Engineering & Hardware Design
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyEDA-1769AA?style=for-the-badge&logo=easyeda&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB%20Design-00897B?style=for-the-badge&logo=pcbway&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D%20Printing-FF6F00?style=for-the-badge&logo=3dprinting&logoColor=white" />
 </p>
 
 ---
 
-## 🌀 ROBOTICS SYSTEM
+## 📊 Productivity
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+---
+
+# 🌀 ROBOTICS SYSTEM
 
 ```text
-                    ┌─────────────────────┐
-                    │      ROS / ROS2     │
-                    │  Robot Intelligence │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │   Computer Vision   │
-                    │    AI / Perception  │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │   Robot Controller  │
-                    │   ESP32 / Teensy    │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-        ┌────▼────┐       ┌────▼────┐       ┌────▼────┐
-        │ Sensors │       │ Motors  │       │  LoRa   │
-        │ IMU/LiDAR│      │ Encoder │       │  IoT    │
-        └─────────┘       └─────────┘       └─────────┘
-```
-
+                         ┌─────────────────────┐
+                         │      ROS / ROS2     │
+                         │  Robot Intelligence │
+                         └──────────┬──────────┘
+                                    │
+                         ┌──────────▼──────────┐
+                         │   Robot Perception  │
+                         │   Sensors / Vision  │
+                         └──────────┬──────────┘
+                                    │
+                         ┌──────────▼──────────┐
+                         │   Robot Controller  │
+                         │   ESP32 / Teensy    │
+                         └──────────┬──────────┘
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+        ┌─────▼─────┐         ┌─────▼─────┐         ┌─────▼─────┐
+        │  Sensors  │         │   Motors  │         │    IoT    │
+        │ IMU/LiDAR │         │  Encoder  │         │ LoRa/MQTT │
+        └───────────┘         └───────────┘         └───────────┘
 ---
 
 ## 🛸 CURRENT PROJECTS
