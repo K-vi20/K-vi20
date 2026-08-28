@@ -1,4 +1,4 @@
-# 🪐 `SYSTEM ACCESS: GRANTED` // Hi, I'm Kavee Khayandee
+# 🪐 SYSTEM ACCESS: GRANTED // Hi, I'm Kavee Khayandee
 ⚡ *Robotics & Embedded Systems Developer | Exploring the Future of Automation*
 
 <p align="left">
@@ -18,20 +18,26 @@
 
 ### 🎛️ TECH STACK & CYBERWARE
 
-![Python](https://shields.io)
-![C++](https://shields.io)
-![ROS](https://shields.io)
-![Ubuntu](https://shields.io)
-![ESP32](https://shields.io)
-![Git](https://shields.io)
+<!-- แก้ไขโดยใช้แท็ก <img> เพื่อบังคับให้รูปป้ายปุ่มสีโหลดบน GitHub -->
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="ROS" />
+  <img src="https://shields.io" alt="Ubuntu" />
+  <img src="https://shields.io" alt="ESP32" />
+  <img src="https://shields.io" alt="Git" />
+</p>
 
 ---
 
 ### 📊 SYSTEM PERFORMANCE (STATS)
 
-<!-- กล่องสถิติและภาษายอดนิยมที่ใช้ ธีม Synthwave/Neon คุมโทนเข้ากับรูปโปรไฟล์ -->
+<!-- ปรับลิงก์ภาพสถิติให้รองรับ Markdown ทั่วไป เพื่อแก้ปัญหารูปไม่โหลด -->
 <p align="left">
-  <img src="https://vercel.app" alt="K-vi20 stats" height="150" />
-  <img src="https://vercel.app" alt="Top Langs" height="150" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="K-vi20 GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Top Languages" height="170" />
+  </a>
 </p>
-
