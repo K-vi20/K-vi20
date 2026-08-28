@@ -18,13 +18,13 @@
 
 ### 🎛️ TECH STACK & CYBERWARE
 
-<!-- แก้ไขโดยใช้แท็ก <img> เพื่อบังคับให้รูปป้ายปุ่มสีโหลดบน GitHub -->
+<!-- เปลี่ยนมาใช้แท็ก <img> ของ HTML ช่วยให้ GitHub ดึงโลโก้และป้ายสีมาโชว์ได้เสถียรที่สุด -->
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="ROS" />
-  <img src="https://shields.io" alt="Ubuntu" />
-  <img src="https://shields.io" alt="ESP32" />
+  <img src="https://shields.io" alt="Python" />&nbsp;
+  <img src="https://shields.io" alt="C++" />&nbsp;
+  <img src="https://shields.io" alt="ROS" />&nbsp;
+  <img src="https://shields.io" alt="Ubuntu" />&nbsp;
+  <img src="https://shields.io" alt="ESP32" />&nbsp;
   <img src="https://shields.io" alt="Git" />
 </p>
 
@@ -32,12 +32,9 @@
 
 ### 📊 SYSTEM PERFORMANCE (STATS)
 
-<!-- ปรับลิงก์ภาพสถิติให้รองรับ Markdown ทั่วไป เพื่อแก้ปัญหารูปไม่โหลด -->
+<!-- ปรับโครงสร้างลิงก์การ์ดสถิติ Synthwave ให้ดึงรูปภาพแบบเป็นทางการ -->
 <p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="K-vi20 GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Top Languages" height="170" />
-  </a>
+  <img src="https://vercel.app" alt="K-vi20 GitHub Stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://vercel.app" alt="Top Languages" height="170" />
 </p>
