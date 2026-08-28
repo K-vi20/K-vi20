@@ -17,7 +17,17 @@
 
 # 🎛️ TECH STACK & CYBERWARE
 
-## 🤖 Robotics & Embedded Systems
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3B4A,100:00E5FF&height=220&section=header&text=KAVEE%20KHAYANDEE&fontSize=42&fontColor=E6EDF3&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <b>🤖 Robotics & Embedded Systems Developer</b>
+</p>
+
+<p align="center">
+  <code>ROS</code> • <code>ROS2</code> • <code>ESP32</code> • <code>IoT</code> • <code>Computer Vision</code>
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Robot%20Operating%20System%20(ROS)-22314E?style=for-the-badge&logo=ros&logoColor=white" />
