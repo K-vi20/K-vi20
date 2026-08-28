@@ -1,9 +1,7 @@
 # 🪐 SYSTEM ACCESS: GRANTED // Hi, I'm Kavee Khayandee
 ⚡ *Robotics & Embedded Systems Developer | Exploring the Future of Automation*
 
-<p align="left">
-  <img src="https://komarev.com" alt="K-vi20" />
-</p>
+<br>
 
 ---
 
@@ -18,23 +16,22 @@
 
 ### 🎛️ TECH STACK & CYBERWARE
 
-<!-- เปลี่ยนมาใช้แท็ก <img> ของ HTML ช่วยให้ GitHub ดึงโลโก้และป้ายสีมาโชว์ได้เสถียรที่สุด -->
+<!-- ปรับแก้ Tag HTML เป็นมาตรฐานสากล แยกบรรทัดชัดเจนเพื่อไม่ให้บราวเซอร์เอ๋อ -->
 <p align="left">
-  <img src="https://shields.io" alt="Python" />&nbsp;
-  <img src="https://shields.io" alt="C++" />&nbsp;
-  <img src="https://shields.io" alt="ROS" />&nbsp;
-  <img src="https://shields.io" alt="Ubuntu" />&nbsp;
-  <img src="https://shields.io" alt="ESP32" />&nbsp;
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Python" height="25" />
+  <img src="https://shields.io" alt="C++" height="25" />
+  <img src="https://shields.io" alt="ROS" height="25" />
+  <img src="https://shields.io" alt="Ubuntu" height="25" />
+  <img src="https://shields.io" alt="ESP32" height="25" />
+  <img src="https://shields.io" alt="Git" height="25" />
 </p>
 
 ---
 
 ### 📊 SYSTEM PERFORMANCE (STATS)
 
-<!-- ปรับโครงสร้างลิงก์การ์ดสถิติ Synthwave ให้ดึงรูปภาพแบบเป็นทางการ -->
+<!-- ปรับไปใช้เซิร์ฟเวอร์สำรองทางการของระบบ Stats เพื่อเลี่ยงการโดนบล็อกไอพี -->
 <p align="left">
-  <img src="https://vercel.app" alt="K-vi20 GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://vercel.app" alt="Top Languages" height="170" />
+  <img src="https://vercel.app" alt="K-vi20 GitHub Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Languages" height="160" />
 </p>
